@@ -1,11 +1,11 @@
 
 ## 👤 Identitas
 
-**Nama:** Naswa Mutiara
-**Kelas:** TIF K 23A
-**NIM:** 23552011185
-**Matakuliah:** Pemograman Web 2
-**Dosen pengampu:** Bpk. Ipan Saepul Milal, S.Kom.
+- **Nama:** Naswa Mutiara
+- **Kelas:** TIF K 23A
+- **NIM:** 23552011185
+- **Matakuliah:** Pemograman Web 2
+- **Dosen pengampu:** Bpk. Ipan Saepul Milal, S.Kom.
 
 Project ini diajukan untuk memenuhi UTS pada mata kuliah Tugas Pemograman Web 2
 
